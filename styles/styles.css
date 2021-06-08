@@ -1,1 +1,32 @@
-td {border: 1pix solid #8888}
+.td {
+    border: 1px solid #8888;
+}
+
+body {
+    background-color: #9f6f3b;
+    width: 800px;
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+
+h1 {
+    background-color: #c79750f6;
+    color: black;
+}
+
+div {
+    margin: 15px 10px 15px 0px;
+}
+
+.container {}
